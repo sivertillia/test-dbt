@@ -11,8 +11,6 @@ test-paths:
   - tests
 macro-paths:
   - macros
-doc-paths:
-  - docs
 snapshot-paths:
   - snapshots
 
