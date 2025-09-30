@@ -13,8 +13,6 @@ macro-paths:
   - macros
 doc-paths:
   - docs
-seed-paths:
-  - seeds
 snapshot-paths:
   - snapshots
 
