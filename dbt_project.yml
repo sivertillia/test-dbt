@@ -9,8 +9,6 @@ analysis-paths:
   - analysis
 test-paths:
   - tests
-data-paths:
-  - data
 macro-paths:
   - macros
 doc-paths:
